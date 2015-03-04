@@ -1,6 +1,6 @@
 /*
  * 
- * Copyright 2014, Matt Eaton, and individual contributors as indicated
+ * Copyright 2015, Matt Eaton, and individual contributors as indicated
  * by the @authors tag. See the copyright.txt in the distribution for a
  * full listing of individual contributors.
  *
@@ -15,7 +15,6 @@
  * Lesser General Public License for more details.
  *
  */
-
 package com.strider.appinv.agent;
 
 import com.strider.appinv.agent.domain.Application;
